@@ -1,0 +1,3 @@
+- insert:
+    - id: ui-no-repo
+      name: '@deepseek-ai/dsh-client-ui-no-repo'
